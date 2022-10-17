@@ -1,0 +1,59 @@
+body.index .about {
+  padding: 32px;
+}
+
+body.index {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url(assets/ue5-bg.jpg);
+  background-size: cover;
+  background-position: center;
+  --border: 1px solid #fff6;
+}
+
+body.index main {
+  background-color: #0003;
+  color: #fff9;
+  border: var(--border);
+  border-radius: 8px;
+}
+
+body.index a:visited,
+body.index a:link {
+  color: inherit;
+}
+
+body.index ul {
+  display: flex;
+  flex-direction: column;
+  min-width: 600px;
+  padding: 0;
+  border-top: var(--border);
+}
+
+body.index li {
+  list-style: none;
+}
+
+body.index li + li {
+  border-top: var(--border);
+}
+
+body.index li a {
+  display: flex;
+  text-decoration: none;
+  transition: all .3s ease-out;
+}
+
+body.index li a:hover {
+  color: #fff;
+  background-color: #fff1;
+}
+
+body.index li span {
+  flex: 1;
+  padding: 8px;
+}

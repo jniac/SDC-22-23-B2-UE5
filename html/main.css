@@ -1,9 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
+@import url(https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap);
+@import url(body-index.css);
 
-* {
-
+body, body * {
+  margin: 0;
+  position: relative;
+  box-sizing: border-box;
 }
 
 body {
   font-family: 'Fira Code', monospace;
 }
+
