@@ -1,0 +1,25 @@
+@import url(../../html/main.css);
+
+body {
+    background-color: #007595;
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid 16px #8ebbe6;
+}
+*
+section h1 {
+    font-size: 6em;
+    color: #c7a7dd;
+}
+
+section.page-1 {
+    background-image: url(assets/ouibonsoir.jpg);
+    background-size: cover;
+}
