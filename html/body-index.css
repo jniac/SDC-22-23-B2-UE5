@@ -1,20 +1,23 @@
-body.index .about {
-  padding: 32px;
-}
-
 body.index {
+  padding: 16px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  background-color: #1a1524;
   background-image: url(assets/ue5-bg.jpg);
   background-size: cover;
   background-position: center;
   --border: 1px solid #fff6;
 }
 
+body.index .about {
+  padding: 32px;
+}
+
 body.index main {
+  width: min(600px, 100%);
   background-color: #0003;
   color: #fff9;
   border: var(--border);
@@ -29,7 +32,6 @@ body.index a:link {
 body.index ul {
   display: flex;
   flex-direction: column;
-  min-width: 600px;
   padding: 0;
   border-top: var(--border);
 }
@@ -56,4 +58,6 @@ body.index li a:hover {
 body.index li span {
   flex: 1;
   padding: 8px;
+  display: flex;
+  align-items: center;
 }
