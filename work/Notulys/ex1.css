@@ -18,3 +18,7 @@ section h1 {
     font-size: 3em;
     color: aquamarine;
 }
+
+section.page-1 {
+    background-image: url();
+}
