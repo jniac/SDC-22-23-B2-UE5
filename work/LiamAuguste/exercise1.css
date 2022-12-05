@@ -1,0 +1,22 @@
+@import url(../../html/main.css);
+
+body {
+    background-color: rgb(255, 145, 0);
+}
+section {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid 16px #8e8e8e;
+}
+section h1 {
+    font-size: 4em;
+    color: cornflowerblue
+}
+
+section {
+    background-image: url();
+}
