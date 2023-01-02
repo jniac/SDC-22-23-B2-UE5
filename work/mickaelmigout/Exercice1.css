@@ -1,7 +1,7 @@
 @import url(../../html/main.css);
 
 body {
-background-color: red;
+background-color: rgb(218, 94, 94);
 }
 
 section {
@@ -11,7 +11,7 @@ section {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: solid 16px white;
+    border: solid 16px rgb(167, 167, 167);
 }
 section h1 {
     font-size: 6em;
