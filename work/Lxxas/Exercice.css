@@ -1,7 +1,7 @@
 @import url(../../html/main.css);
 
 body {
-    background-color: slateblue;
+    background-color: rgba(48, 19, 233, 0.841);
 }
 
 section {
@@ -9,16 +9,42 @@ section {
     height: 100vh;
     display: flex;
     flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border: solid 16px #000000;
+    padding: 16px;
+}
+section.intro {
     justify-content: center;
     align-items: center;
-    border: solid 16px black;
 }
 section h1 {
     font-size: 4em;
-    color: steelblue;
+    color: rgb(97, 26, 169);
+}
+
+section h2 {
+    font-size: 5em;
+    color: rgb(0, 0, 0);
 }
 
 section.page-1 {
-    background-image: url(assets/PS5_logo.png); 
+    background-image: url(assets/Screen1.png); 
+    background-size: cover;
+    align-items: flex-end;
+}
+
+section.page-2 {
+    background-image: url(assets/Screen2.png); 
+    background-size: cover;
+}
+
+section.page-3 {
+    background-image: url(assets/Screen3.png); 
+    background-size: cover;
+}
+
+section.page-4 {
+    background-image: url(assets/Screen4.png); 
     background-size: cover;
 }
