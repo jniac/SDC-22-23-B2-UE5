@@ -1,0 +1,24 @@
+@import url(../../html/main.css);
+
+body {
+    background-color: slateblue;
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid 16px black;
+}
+section h1 {
+    font-size: 4em;
+    color: steelblue;
+}
+
+section.page-1 {
+    background-image: url(assets/PS5_logo.png); 
+    background-size: cover;
+}
