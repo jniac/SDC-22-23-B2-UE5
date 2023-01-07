@@ -1,0 +1,28 @@
+@import url(../../html/main.css);
+
+body{
+    background-color: rgb(255, 179, 108);
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid 64px rgb(250, 161, 78);
+}
+section h1 {
+    font-size: 6em;
+    font-style: italic;
+color: rgb(0, 0, 0);
+text-shadow: 50mm;
+text-justify: newspaper;
+text-decoration: underline;
+}
+section.page-1{
+    background-image: url(asset/unreal-2.1.gif)
+    
+}
+

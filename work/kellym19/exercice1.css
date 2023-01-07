@@ -1,0 +1,31 @@
+@import url(../../html/main.css);
+
+body{
+    background-color: rgb(13, 72, 59);
+}
+section {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid 64px rgb(24, 137, 112);
+}
+section h1 {
+    font-size: 6em;
+    font-style: italic;
+    text-decoration: underline;
+    text-shadow: 5mm;
+color: rgb(255, 255, 255);
+;
+}
+section.page-1 {
+    background-image: url(asset/unreal-1.gif)
+}
+section.page-2 {
+    background-image: url(asset/unreal-1.gif)
+}
+section.page-3 {
+    background-image: url(asset/unreal-1.gif)
+}
