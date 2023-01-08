@@ -29,3 +29,9 @@ section p {
 section.page-1 {
     background-image: url(assets/ex1-debut-map.jpg);
 }
+section.page-2 {
+    background-image: url(assets/ex1-milieu-map.png);
+}
+section.page-3 {
+    background-image: url(assets/ex1-fin-map.png);
+}
