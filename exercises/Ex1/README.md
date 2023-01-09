@@ -1,4 +1,4 @@
-# Ex1 Forest Temple
+# Ex1 : Le Temple Dans La Forêt.
 
 ## Brief
 
@@ -8,7 +8,7 @@ Créez un environnement simple mettant en scène un chemin menant à un temple i
 - Le parcours général doit respecter les volumes du mesh "Ex1-ForestTemple" (Work/jniac/Misc).
 - L'étape finale du parcours est un "temple"
 - Le sol est un "Landscape"
-- Le matériau du sol contient au minimum 2 "layers"
+- Le matériau du sol contient au minimum 2 "layers" (ex 1. "Rock", 2. "Grass").
 
 ## Notions & connaissances abordées : 
 
@@ -16,7 +16,7 @@ Créez un environnement simple mettant en scène un chemin menant à un temple i
   - Sun (directional light)
   - Skylight (éclairer les zones à l'ombre)
   - "BP_SkySphere"
-  - Build Light only
+  - Build Light only (inutile sur PC/UE5?)
 
 - Landscape
   - Sculpt
@@ -24,11 +24,6 @@ Créez un environnement simple mettant en scène un chemin menant à un temple i
     - Flatten
     - Ramp
   - Paint
-
-- Material
-  - Lit / Unlit
-  - Advanced properties: TwoSided, wireframe
-  - Base Color, Emissive Color
 
 - Landscape Material
   - LayerBlend (BluePrint)
