@@ -25,6 +25,11 @@ Créez un environnement simple mettant en scène un chemin menant à un temple i
     de chaque étudiant.
     - Les assets nécessaire (image, css) doivent être présents et correctement
     référencés.
+    - Cette page web contient 4 captures d'écran: 
+      - 1. Le point de départ.
+      - 2. La vue depuis le saut avant le temple.
+      - 3. Une vue qui vous plaira.
+      - 4. Une vue de l'idole.
 
 ## Notions & connaissances abordées : 
 
