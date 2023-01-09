@@ -1,0 +1,46 @@
+@import url(../../html/main.css);
+
+body {
+    background-color: blue;
+}
+
+section{
+    width: 100vw;
+    height: 100vh; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid 16px cornsilk;
+}
+section h1{
+    font-size: 3em;
+    color: white;
+}
+
+section h2{
+    font-size: 3em;
+    color: white;
+}
+
+section h3{
+    font-size: 3em;
+    color: white;
+}
+
+section h4{
+    font-size: 3em;
+    color: white;
+}
+
+.section1{
+    background-image: url(asset/La-foto.jpg);
+    background-size: cover;
+
+}
+
+.section2{
+    background-image: url(asset/Capture\ d’écran\ 2022-11-28\ à\ 19.33.38.png);
+    background-size: cover;
+
+}
