@@ -1,0 +1,37 @@
+@import url(../../html/main.css);
+
+body {
+    background-color: rgb(19, 70, 115);
+}
+section {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border: solid 16px #8e8e8e;
+    padding: 16px;
+}
+section.intro {
+    justify-content: center;
+    align-items: center;
+}
+section h1 {
+    font-size: 4em;
+    color: rgb(156, 37, 37)
+}
+section p {
+    background-color: rgb(100, 237, 143);
+    padding: 8px;
+    border-radius: 4px;
+}
+section.page-1 {
+    background-image: url(assets/ex1-debut-map.jpg);
+}
+section.page-2 {
+    background-image: url(assets/ex1-milieu-map.png);
+}
+section.page-3 {
+    background-image: url(assets/ex1-fin-map.png);
+}
