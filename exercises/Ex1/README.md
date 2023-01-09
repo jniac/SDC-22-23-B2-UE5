@@ -9,6 +9,7 @@ Créez un environnement simple mettant en scène un chemin menant à un temple i
 - L'étape finale du parcours est un "temple"
 - Le sol est un "Landscape"
 - Le matériau du sol contient au minimum 2 "layers" (ex 1. "Rock", 2. "Grass").
+- 🗽 Le temple doit contenir une petite statuette en "or" (idole).
 
 ## Notions & connaissances abordées : 
 
@@ -30,3 +31,8 @@ Créez un environnement simple mettant en scène un chemin menant à un temple i
   - LandscapeCoords (BluePrint)
   - LayerInfo: 
     - ajouter un layer (édition multiple)
+
+- Matériau simple
+  - Base color
+  - Metalness / Roughness
+  - Normal 
