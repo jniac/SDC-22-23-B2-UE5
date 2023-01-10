@@ -27,11 +27,11 @@ section p {
     border-radius: 4px;
 }
 section.page-1 {
-    background-image: url(assets/ex1-debut-map.jpg);
+    background-image: url(assets/ex1-entre-en-scene.jpg);
 }
 section.page-2 {
-    background-image: url(assets/ex1-milieu-map.png);
+    background-image: url(assets/ex1-debut-de-temple.jpg);
 }
 section.page-3 {
-    background-image: url(assets/ex1-fin-map.png);
+    background-image: url(assets/ex1-dans-le-temple.jpg);
 }
