@@ -23,7 +23,7 @@ Cet environnement sera complété dans un second temps par l'ajout d'un artefact
     - L'obstacle franchit une ascension difficile survient alors,
     - Au terme de laquelle se trouve le temple.
 - L'étape finale du parcours est un "temple"
-- Une étape intermédiaire présente une obstacle dont le franchissement qui aboutit 
+- Une étape intermédiaire présente un obstacle dont le franchissement amène 
   à la révélation de la destination ultime (le temple).
 - Le sol est un "Landscape"
 - Le matériau du sol contient au minimum 3 "layers" (ex 1. "Rock", 2. "Grass", 3. "Dirt").
