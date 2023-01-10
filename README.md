@@ -2,7 +2,7 @@
 
 [page des travaux](https://jniac.github.io/SDC-22-23-B2-UE5/index.html)
 
-## Exercises :
+## Exercices :
 
 ### Ex1
   <a href="exercises/Ex1/">
