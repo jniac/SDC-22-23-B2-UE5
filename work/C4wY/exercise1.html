@@ -2,27 +2,31 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exercise 1</title>
-    <link rel="'stylesheet" href="exercise1.css">
+    <title>Foret</title>
+    <link rel="stylesheet" href="exercice1.css">
 </head>
-<body>
-    <section class="intro">
-        <h1>
-            Temple Foret
-        </h1>
-    </section>
-    <section class="img-1">
-        Image 1 : Vue d'ensemble
-        <img src="Screen1Caw.png" alt="Vue d'ensemble">
-    </section>
-    <section class="img-2">
-        Image 2 : Montagne
-        <img src="Screen2Caw.png" alt="Début du chemin">
-    </section>
-    <section class="img-3">
-        Image 3 : Chemin traversé 
-        <img src="Screen3Caw.png" alt="Fin du parcours">
-    </section>
-</body>
-</html>
+<section class="gallery">
+    <div class="gallery__item">
+      <input type="radio" id="img-1" checked name="gallery" class="gallery__selector"/>
+      <img class="gallery__img" src="https://picsum.photos/id/1015/600/400.jpg" alt=""/>
+      <label for="img-1" class="gallery__thumb"><img src="https://picsum.photos/id/1015/150/100.jpg" alt=""/></label>
+    </div>
+    <div class="gallery__item">
+      <input type="radio" id="img-2" name="gallery" class="gallery__selector"/>
+      <img class="gallery__img" src="https://picsum.photos/id/1039/600/400.jpg" alt=""/>
+      <label for="img-2" class="gallery__thumb"><img src="https://picsum.photos/id/1039/150/100.jpg" alt=""/></label>
+    </div>
+    <div class="gallery__item">
+      <input type="radio" id="img-3" name="gallery" class="gallery__selector"/>
+      <img class="gallery__img" src="https://picsum.photos/id/1057/600/400.jpg" alt=""/>
+      <label for="img-3" class="gallery__thumb"><img src="https://picsum.photos/id/1057/150/100.jpg" alt=""/></label>
+    </div>
+    <div class="gallery__item">
+      <input type="radio" id="img-4" name="gallery" class="gallery__selector"/>
+      <img class="gallery__img" src="https://picsum.photos/id/106/600/400.jpg" alt=""/>
+      <label for="img-4" class="gallery__thumb"><img src="https://picsum.photos/id/106/150/100.jpg" alt=""/></label>
+    </div>
+  </section>
+</html> 
