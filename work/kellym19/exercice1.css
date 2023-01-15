@@ -1,7 +1,7 @@
 @import url(../../html/main.css);
 
 body {
-    background-color: rgb(158, 253, 239);
+    background-color: rgb(221, 116, 29);
 }
 section {
     width: 100vw;
@@ -10,7 +10,7 @@ section {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: solid 72px rgb(161, 234, 234);
+    border: solid 72px rgb(189, 105, 36);
 }
 section.intro {
     justify-content: center;
@@ -40,7 +40,7 @@ section p {
      left: 0px;
 }
 section.page-1 {
-    background-image: url(assets/image\ 1\ exo\ 1.jpg)
+    background-image: url(assets/image\ 1\ exo\ 1.jpg )
     
 }
 section.page-2 {
@@ -49,5 +49,9 @@ section.page-2 {
 }
 section.page-3 {
     background-image: url(assets/image\ 3\ exo\ 1.jpg)
+    
+}
+section.page-4 {
+    background-image: url(assets/image\ 4\ exo\ 1.jpg)
     
 }

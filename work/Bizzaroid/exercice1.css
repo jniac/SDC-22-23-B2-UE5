@@ -8,10 +8,8 @@ section{
     width: 100vw;
     height: 100vh; 
     display: flex;
+    border: solid 16px black;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border: solid 16px cornsilk;
 }
 section h1{
     font-size: 3em;
@@ -20,12 +18,12 @@ section h1{
 
 section h2{
     font-size: 3em;
-    color: white;
+    color:white;
 }
 
 section h3{
     font-size: 3em;
-    color: white;
+    color:white;
 }
 
 section h4{
@@ -33,14 +31,39 @@ section h4{
     color: white;
 }
 
-.section1{
-    background-image: url(asset/La-foto.jpg);
-    background-size: cover;
+section h5{
+    font-size: 3em;
+    color: white;
+}
 
+.section1{
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
 }
 
 .section2{
-    background-image: url(asset/lol.png);
+    background-image: url(asset/beginning.png);
     background-size: cover;
+    justify-content: end;
+    align-items: flex-end;
+}
 
+.section3{
+    background-image: url(asset/MIDWAY.png);
+    background-size: cover;
+    justify-content: end;
+    align-items: flex-end;
+}
+.section4{
+    background-image: url(asset/gap.png);
+    background-size: cover;
+    justify-content: end;
+    align-items: flex-end;
+}
+.section5{
+    background-image: url(asset/temple.png);
+    background-size: cover;
+    justify-content: end;
+    align-items: flex-end;
 }
