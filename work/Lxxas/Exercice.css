@@ -1,7 +1,7 @@
 @import url(../../html/main.css);
 
 body {
-    background-color: rgba(48, 19, 233, 0.841);
+    background-color: rgb(3, 51, 51);
 }
 
 section {
@@ -11,7 +11,7 @@ section {
     flex-direction: column;
     justify-content: flex-end;
     align-items: flex-end;
-    border: solid 16px #000000;
+    border: solid 16px #0a2429;
     padding: 16px;
 }
 section.intro {
@@ -19,13 +19,16 @@ section.intro {
     align-items: center;
 }
 section h1 {
-    font-size: 4em;
-    color: rgb(97, 26, 169);
+    font-size: 10em;
+    color: rgb(104, 231, 223);
 }
 
 section h2 {
     font-size: 5em;
-    color: rgb(0, 0, 0);
+    color: rgb(234, 224, 224);
+    background-color: rgb(3, 45, 15);
+    padding: 8px;
+    border-radius: 4px;
 }
 
 section.page-1 {
@@ -46,5 +49,10 @@ section.page-3 {
 
 section.page-4 {
     background-image: url(assets/Screen4.png); 
+    background-size: cover;
+}
+
+section.page-5 {
+    background-image: url(assets/Screen5.png); 
     background-size: cover;
 }

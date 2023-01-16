@@ -1,5 +1,7 @@
 # Ex1 : Le Temple Dans La Forêt.
 
+<img width="640" src="overview.jpg">
+
 ## Brief
 
 Créez un environnement simple mettant en scène un chemin menant à un temple isolé.

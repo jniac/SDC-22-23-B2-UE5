@@ -1,7 +1,7 @@
 @import url(../../html/main.css);
 
 body {
-    background-color: #007595;
+    background-color: #ccb873;
 }
 
 section {
@@ -9,17 +9,77 @@ section {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border: solid 16px #8ebbe6;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border: solid 16px #2c2906;
+
+    background-size: cover;
+    background-position: center;
 }
-*
+
 section h1 {
     font-size: 6em;
-    color: #c7a7dd;
+    color: #000000;
+}
+
+section p {
+    background-color: #ccb873;
+}
+
+section.intro {
+    justify-content: center;
+    align-items: center;
 }
 
 section.page-1 {
-    background-image: url(assets/ouibonsoir.jpg);
-    background-size: cover;
+    background-image: url(assets/ex1/1.JPG);
+}
+
+
+section.page-2 {
+    background-image: url(assets/ex1/2.JPG);
+}
+
+section.page-3 {
+    background-image: url(assets/ex1/3.JPG);
+}
+
+section.page-4 {
+    background-image: url(assets/ex1/4.JPG);
+}
+
+section.page-5 {
+    background-image: url(assets/ex1/5.JPG);
+}
+
+section.page-6 {
+    background-image: url(assets/ex1/6.JPG);
+}
+
+section.page-7 {
+    background-image: url(assets/ex1/7.JPG);
+}
+
+section.page-8 {
+    background-image: url(assets/ex1/8.JPG);
+}
+
+section.page-9 {
+    background-image: url(assets/ex1/9.JPG);
+}
+
+section.page-10 {
+    background-image: url(assets/ex1/10.JPG);
+}
+
+section.page-11 {
+    background-image: url(assets/ex1/11.JPG);
+}
+
+section.page-12 {
+    background-image: url(assets/ex1/12.JPG);
+}
+
+section.page-13 {
+    background-image: url(assets/ex1/13.JPG);
 }
