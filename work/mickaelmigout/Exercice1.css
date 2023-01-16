@@ -28,7 +28,7 @@ section p {
 }
 
 section.page-1 {
-    background-image: url(asset/CaptureVueD\'ensemble.jpg);
+    background-image: url(asset/Capture\ vue\ d\'ensemble.JPG);
     background-size: cover;
 }
 
@@ -38,11 +38,11 @@ section.page-2 {
 }
 
 section.page-3 {
-    background-image: url(asset/CaptureVueSurLeTemple.jpg);
+    background-image: url(asset/Capture\ vue\ sur\ le\ temple.jpg);
     background-size: cover;
 }
 
 section.page-4 {
-    background-image: url(asset/CaptureParcours.jpg);
+    background-image: url(asset/Capture\ statue\ en\ or.JPG);
     background-size: cover;
 }

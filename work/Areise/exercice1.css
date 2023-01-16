@@ -1,0 +1,52 @@
+@import url(../../html/main.css);
+
+body {
+    background-color: rgb(23, 62, 33);
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border: solid 16px black;
+    padding: 32px;
+}
+
+section.intro {
+    justify-content: center;
+    align-items: center;
+}
+
+section h1 {
+    font-size: 2em;
+    color: goldenrod;
+}
+
+section p {
+    background-color: rgb(218, 155, 77);
+    padding: 8px;
+    border-radius: 4px;
+}
+
+section.page-1 {
+    background-image: url(assets/TempleDebut.jpg);
+    background-size: cover;
+}
+
+section.page-2 {
+    background-image: url(assets/TempleSaut.jpg);
+    background-size: cover;
+}
+
+section.page-3 {
+    background-image: url(assets/TempleVue.jpg);
+    background-size: cover;
+}
+
+section.page-4 {
+    background-image: url(assets/TempleIdole.jpg);
+    background-size: cover;
+}
