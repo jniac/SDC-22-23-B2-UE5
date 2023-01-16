@@ -1,0 +1,41 @@
+@import url(../../html/main.css);
+
+body {
+    background-color: rgb(175, 175, 233);
+}
+section {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border: solid 16px #518bab;
+    background-size: cover;
+    background-position: center;
+}
+section h1 {
+    font-size: 3em;
+    color: darkslategray;
+}
+
+section p {
+    background-color: rgb(175, 175, 233);
+    padding: 8px;
+    border-radius: 4px;
+}
+section.page-1 {
+background-image: url(assets/she_temple_montagne_overview.jpg);
+}
+section.page-2 {
+    background-image: url(assets/she_temple_montagne_start.jpg);
+}
+section.page-3 {
+    background-image: url(assets/she_temple_montagne_jump.jpg);
+}
+section.page-4 {
+    background-image: url(assets/she_temple_montagne_temple.jpg);
+}
+section.page-5 {
+    background-image: url(assets/she_temple_montagne_statue.jpg);
+}
