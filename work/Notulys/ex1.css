@@ -37,3 +37,10 @@ section.img-3 {
     max width: 95%;
     padding: 5%;
 }
+
+section.img-4 {
+    height: auto;
+    max width: 95%;
+    padding: 5%;
+    overflow: hidden;
+}
