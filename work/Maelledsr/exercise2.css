@@ -32,54 +32,34 @@ section.intro {
 }
 
 section.page-1 {
-    background-image: url(assets/ex1/1.JPG);
+    background-image: url(assets/ex2/1.JPG);
 }
 
 
 section.page-2 {
-    background-image: url(assets/ex1/2.JPG);
+    background-image: url(assets/ex2/2.JPG);
 }
 
 section.page-3 {
-    background-image: url(assets/ex1/3.JPG);
+    background-image: url(assets/ex2/3.JPG);
 }
 
 section.page-4 {
-    background-image: url(assets/ex1/4.JPG);
+    background-image: url(assets/ex2/4.JPG);
 }
 
 section.page-5 {
-    background-image: url(assets/ex1/5.JPG);
+    background-image: url(assets/ex2/5.JPG);
 }
 
 section.page-6 {
-    background-image: url(assets/ex1/6.JPG);
+    background-image: url(assets/ex2/6.JPG);
 }
 
 section.page-7 {
-    background-image: url(assets/ex1/7.JPG);
+    background-image: url(assets/ex2/7.JPG);
 }
 
 section.page-8 {
-    background-image: url(assets/ex1/8.JPG);
-}
-
-section.page-9 {
-    background-image: url(assets/ex1/9.JPG);
-}
-
-section.page-10 {
-    background-image: url(assets/ex1/10.JPG);
-}
-
-section.page-11 {
-    background-image: url(assets/ex1/11.JPG);
-}
-
-section.page-12 {
-    background-image: url(assets/ex1/12.JPG);
-}
-
-section.page-13 {
-    background-image: url(assets/ex1/13.JPG);
+    background-image: url(assets/ex2/8.JPG);
 }
