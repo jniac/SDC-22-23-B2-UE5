@@ -13,7 +13,7 @@ Cet environnement sera complété dans un second temps par l'ajout d'un artefact
 (dans le temple), par la présence d'un léger sound design.
 
 ## Contraintes: 
-- Le parcours général doit respecter les volumes du mesh "Ex1-ForestTemple" 
+- Le parcours général doit respecter les volumes du mesh "Ex2-MountainTemple" 
   (Work/jniac/Misc). Les volumes peuvent être ainsi résumés : 
     - Le joueur commence dans un vallon étroit, encaissé, la montagne le surplombe, 
     il faut lever la tête pour voir le ciel. 
