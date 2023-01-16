@@ -9,9 +9,12 @@ section {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    justify-content: flex-end;
+    align-items: flex-end;
     border: solid 16px #2c2906;
+
+    background-size: cover;
+    background-position: center;
 }
 
 section h1 {
@@ -19,68 +22,64 @@ section h1 {
     color: #000000;
 }
 
+section p {
+    background-color: #ccb873;
+}
+
+section.intro {
+    justify-content: center;
+    align-items: center;
+}
+
 section.page-1 {
     background-image: url(assets/ex1/1.JPG);
-    background-size: cover;
 }
 
 
 section.page-2 {
     background-image: url(assets/ex1/2.JPG);
-    background-size: cover;
 }
 
 section.page-3 {
     background-image: url(assets/ex1/3.JPG);
-    background-size: cover;
 }
 
 section.page-4 {
     background-image: url(assets/ex1/4.JPG);
-    background-size: cover;
 }
 
 section.page-5 {
     background-image: url(assets/ex1/5.JPG);
-    background-size: cover;
 }
 
 section.page-6 {
     background-image: url(assets/ex1/6.JPG);
-    background-size: cover;
 }
 
 section.page-7 {
     background-image: url(assets/ex1/7.JPG);
-    background-size: cover;
 }
 
 section.page-8 {
     background-image: url(assets/ex1/8.JPG);
-    background-size: cover;
 }
 
 section.page-9 {
     background-image: url(assets/ex1/9.JPG);
-    background-size: cover;
 }
 
 section.page-10 {
     background-image: url(assets/ex1/10.JPG);
-    background-size: cover;
 }
 
 section.page-11 {
     background-image: url(assets/ex1/11.JPG);
-    background-size: cover;
 }
 
 section.page-12 {
     background-image: url(assets/ex1/12.JPG);
-    background-size: cover;
 }
 
 section.page-13 {
     background-image: url(assets/ex1/13.JPG);
-    background-size: cover;
 }
