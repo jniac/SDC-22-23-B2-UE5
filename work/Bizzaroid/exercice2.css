@@ -8,7 +8,7 @@ section{
     width: 100vw;
     height: 100vh; 
     display: flex;
-    border: solid 16px cornsilk;
+    border: solid 16px black;
     flex-direction: column;
 }
 section h1{
@@ -18,52 +18,79 @@ section h1{
 
 section h2{
     font-size: 3em;
-    color: rgb(0, 0, 0);
+    color: red;
 }
 
 section h3{
     font-size: 3em;
-    color: rgb(0, 0, 0);
+    color: red
 }
 
 section h4{
     font-size: 3em;
-    color: black;
+    color: red;
 }
 
 section h5{
     font-size: 3em;
-    color: black;
+    color: red;
 }
 
+section h6{
+    font-size: 3em;
+    color: white;
+}
+
+
+
 .section1{
-    background-image: url(asset/La-foto.jpg);
     background-size: cover;
     justify-content: center;
     align-items: center;
 }
 
 .section2{
-    background-image: url(asset/lol.png);
+    background-image: url(asset/Beginning_Ex2.png);
     background-size: cover;
     justify-content: end;
     align-items: flex-end;
 }
 
 .section3{
-    background-image: url(asset/lol.png);
+    background-image: url(asset/Flanc_EX2.png);
     background-size: cover;
     justify-content: end;
     align-items: flex-end;
 }
 .section4{
-    background-image: url(asset/lol.png);
+    background-image: url(asset/Obstacle_EX2.png);
     background-size: cover;
     justify-content: end;
     align-items: flex-end;
 }
 .section5{
-    background-image: url(asset/lol.png);
+    background-image: url(asset/Obstacle_END_EX2.png);
+    background-size: cover;
+    justify-content: end;
+    align-items: flex-end;
+}
+
+.section6{
+    background-image: url(asset/templeopening_EX2.png);
+    background-size: cover;
+    justify-content: end;
+    align-items: flex-end;
+}
+
+.section7{
+    background-image: url(asset/Temple_inside_EX2.png);
+    background-size: cover;
+    justify-content: end;
+    align-items: flex-end;
+}
+
+.section8{
+    background-image: url(asset/Ensemble_EX2.png);
     background-size: cover;
     justify-content: end;
     align-items: flex-end;
