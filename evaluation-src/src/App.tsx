@@ -57,9 +57,15 @@ export const Table = ({ data }: { data: string[][] }) => {
       <tbody>
         {lines.map((line, lineIndex) => (
           <tr key={lineIndex}>
-            {line.map((data, cellIndex) => (
-              <td key={cellIndex} className={headClassNames[cellIndex]}>{data}</td>
-            ))}
+            {line.map((data, cellIndex) => {
+              const className = headClassNames[cellIndex]
+              const content = className === 'url'
+                ? <a href={data}>{data}</a>
+                : data
+              return (
+                <td key={cellIndex} className={className}>{content}</td>
+              )
+            })}
           </tr>
         ))}
       </tbody>
@@ -72,6 +78,11 @@ export const App = () => {
   return (
     <div className="App">
       <main>
+        <h1>
+          <a href="https://github.com/jniac/SDC-22-23-B2-UE5/tree/main/exercises/Ex1">
+            Evaluation Ex-1 Le temple dans la forêt
+          </a>
+        </h1>
         {csv && (
           <Table data={csv.data as string[][]} />
         )}

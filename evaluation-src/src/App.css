@@ -6,6 +6,11 @@ main {
   padding: 64px;
 }
 
+main h1 {
+  font-size: 24px;
+  padding-bottom: 32px;
+}
+
 table {
   font-size: 8px;
   width: 2000px;
