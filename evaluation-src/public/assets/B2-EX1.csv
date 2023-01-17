@@ -1,0 +1,141 @@
+Nom;Prénom;GitHub id;Préfix Unreal;Url;Unreal Engine;Base;Bonus / Malus;BM;T;Présentation web;Base;Bonus / Malus;BM;T;Commentaire général
+AUGUSTE;Liam;LiamAuguste;LIA;https://jniac.github.io/SDC-22-23-B2-UE5/work/LiamAuguste/exercise1.html;Bon travail de modélisation, les volumes sont cohérents, l’intégration des rochers est juste. La statuette est un peu discrète dans la scène finale (on la lit « mal » trop sombre, anecdotique dans la composition).;15;Disponible en classe pour dépanner ses camarades.;1;16;"Image 1 : Le personnage est excentré, tourne le dos au chemin. L’angle en revanche (contre plongée) est intéressant.
+
+Image 2 : La plus intéressante des 3 images. Le parcours se lit bien, on devine un obstacle (fosse) et un objectif (élément d’architecture encadré par les rochers du plan intérmédiaire).
+
+Image 3 : La scène apparaît un peu pauvre (vide), la statuette se discerne mal. Le personnage en revanche aide à décrypter l’image (orientation du visage). ";14;4 images demandées, contre 3 ici;-1;13;Bon premier travail, pénalisé toutefois par le non respect du brief (statuette), mais cela est presque sans importance car l’essentiel est là : bonne compréhension du logiciel, et excellente disposition en classe.
+DEMILLY;Cassandre;DAT-Salamandre;DAT;https://jniac.github.io/SDC-22-23-B2-UE5/work/DAT-Salamandre/exercice1.html;"Une utilisation originale des « assets » : réalisation d’une rampe suspendue. Les éléments de végétation s’intègrent bien à l’ensemble.
+La rampe suspendue créé un jeu d’ombre intéressant au sol, une piste graphique à exploiter.
+Présence des 2 « landscape layers » : ok (exploitation discrète mais ok).
+Pas de statuette !";14;Pas de statuette !;-2;12;"Les vues ne correspondent à la demande (point de vue).
+
+Image 1 : Le parcours, jusqu’au franchissement, se lit bien, le ciel est peut-être un peu trop visible (effet de vide, fin du monde). : La scène finale apparaît un peu chaotique, on comprend difficilement le parcours, l’émergence du « terrain » à travers le plancher est malheureuse. Le franchissement en revanche est très lisible et donne envie d’être joué. 
+
+Image 2 : La composition donnant à voir la structure de la rampe est intéressante. En revanche l’angle est au choix légèrement trop bas ou trop haut : il manque une légère perspective sur le tablier du pont (par dessus prenant la lumière, ou par en dessous dans l’ombre).
+
+Image 3
+L’image est très, très similaire à l’image 1.";12;"4 images demandées contre 3 ici
+
+Les vues ne correspondent pas du tout à la demande.
+
+Page web « pétée » (la quatrième image ?)";-2;10;La technicité du logiciel semble avoir été apprivoisé. Il ne faut pas lâcher l’affaire et apporter les derniers soins que requiert les travaux.
+DRAVIGNY;Marie;Notulys;NOT;https://jniac.github.io/SDC-22-23-B2-UE5/work/Notulys/exercice1.html;"Présence des 2 « landscape layers » : ok.
+La neige et la roche habillent le terrain, du coup les cerisiers en bosquet serré sont assez mal venus ! L’ensemble paraît vide, il y a des problèmes de proportions, ex : les tonneaux en travers du chemin sont à la fois anecdotique (rapport d’échelle), incohérents (des tonneaux au milieu d’un paysage vide, pourquoi ?) et dérangeant (difficile à lire / déchiffrer ils occupent l’attention pour rien). 
+Landscape : les deux matériaux vivent bien ensemble (neige, roche -> paysage aride de haute montagne, ok), en revanche le dégradé laiteux ne fonctionne pas (ne correspondant pas au monde physique que nous connaissons), dans le cas de la neige il faut assumer un passage « rapide » de la roche à la neige (à la différence d’un passage de la terre à l’herbe).
+Pas de statuette !";12;Pas de statuette !;-2;10;"Le rouge de l’arrière plan s’accorde mal avec les choix artistiques de la scène (neige, roche).
+
+Image 1 : plongée ok, le bosquet de cerisier est surnaturel.
+
+Image 2 : Le chemin se distingue bien, le bloc enneigé à gauche est cohérent.  Ces quoi ces machins plus loin sur le chemin ? Le bosquet de cerisier est toujours surnaturel. L’ensemble fait un peu vide.
+
+Image 3 : Neige laiteuse, hm, l’ensemble fait un peu vide. Il manque la statuette.";12;"Les vues ne correspondent pas vraiment à la demande.
+
+4 images demandées contre 3 ici";-1;11;Une première approche du logiciel qui mérite d’être approfondie (davantage de soin dans le placement des objets).
+DUSUR;Maëlle;Maelledsr;MAE;https://jniac.github.io/SDC-22-23-B2-UE5/work/Maelledsr/exercise1.html;"Une statuette ou pas de statuette ? Une statuette mais ultra discrète, c’est bien cela ?
+Présence des 2 « landscape layers » : il semble que non, on ne distingue qu’un seul « layer » pour le sol (roche moussue).
+
+Le modélisation du parcours est globalement convaincante, l’éclairage des scènes d’intérieures est plus maladroite (ombre trop franche) car bcp plus difficile. Gros effort de modélisation (bcp de « props »), travail d’architecture (escalier). ";15;"Un excellent niveau hors évaluation (exercice d’intro) + 3
+
+Un seul « landscape layer » -1 ";2;17;"Choix de la couleur d’arrière plan cohérent avec les images suivantes.
+
+Bcp de vues, présentant parfois des redondances. 
+
+Image 1 : cadrage intéressant avec élément de végétation au premier plan, on aimerait cependant lire un peu mieux le prolongement du chemin.
+
+Image 5 : la contre plongée est très forte, on comprend l’intention : donner à voir la façade, les rochers très étirés nuisent à la lecture (lignes verticales et floues), il aurait fallut sans doute un peu moins de contre plongée et un peu plus d’angle d’ouverture (camera FOV 100° ?)
+
+Image 10: la vue sur l’escalier invite le spectateur, les ombres sont trop fortes";14;;;14;Une grande appétence semble-t-il pour le création d’univers, en conséquence de quoi un travail colossal qui souffre pour l’instant d’être en avance sur la demande (les sujets abordés collectivement ne permettent pas de suivre l’ambition de Maëlle (ex : éclairage de scène d’intérieur)) !
+GRASSIOT;Lucas;Lxxas;LXX;https://jniac.github.io/SDC-22-23-B2-UE5/work/Lxxas/Exercice.html;"Présence des 2 « landscape layers » : ok.
+Statuette : ok
+
+La modélisation du terrain est assez grossière (fortes ondulations, textures étirées), mais la végétation sauve le tout, notamment sur les derniers écrans. Attention toutefois aux problèmes d’échelle.";15;;;15;Une typo un peu forte (80px !!!), mais pour autant la charte graphique est efficace, notamment grâce aux teintes sombres qui subliment (par effet de contraste) les captures d’écran.;16;;;16;"Bon travail. Il faut continuer de soigner la présentation.
+Attention au placement et à l’échelle des éléments (assets)."
+HOARAU;Prune;Areise;ARS;https://jniac.github.io/SDC-22-23-B2-UE5/work/Areise/exercice1.html;"Statuette : ok
+Présence des 2 « landscape layers » : houlà, difficile à dire, c’est possible qu’en effet il y a un second layer de type roche à peine visible sur l’image, mais même si c’est bien le cas c’est insuffisant, le travail sur les layers doit se ressentir dans les images, ce n’est pas le cas ici.
+
+En terme de couleurs, d’ambiance il se dégage quelque chose d’intéressant de cet environnement. Le placement des différents assets reste maladroit. Il y a aussi des problèmes d’éclairage (les ombres de l’image 2 sont très dures, alors que c’est « ok » dans les autres images). Les sapins sont fait pour être vue de loin (texture et maillage basse définition). ";13;Un seul « landscape layer ;-1;12;"Ensemble de couleur cohérents (arrière plan, cadre, couleur légende) ouf enfin quelqu’un pour comprendre l’enjeu). Un petit bug dans le calage de la légende. 
+
+Image 1 : le décor est difficilement identifiable en revanche la pente, la source de lumière, l’ombre qui s’étire depuis les pieds, composent ensemble une image très réussie. ";16;;;16;Une approche sensible qui souffre de quelques maladresses dans l’exécution (placement, proportions). Un bon départ néanmoins.
+JOLY;Nicolas;UtopisteNJoly;UNJ;https://jniac.github.io/SDC-22-23-B2-UE5/work/UtopisteNJoly/Exercice1.html;"Présence des 2 « landscape layers » : ok.
+Statuette : non et oui (toute la scène étant dorée).
+
+L’environnement paraît globalement un peu trop vide. Les élévations du terrain sont très raides et étirent méchamment les textures, l’outil terrain ne doit pas être utilisé pour les parois verticales, il faut alors privilégier le placement « d’assets » (rock static mesh). 
+
+L’utilisation originale des textures amène un intérêt certain à la proposition. Le monde apparaît tantôt pris dans la glace (uniformité des matériaux du sol aux « assets »), tantôt pétrifié dans l’or. 
+
+Attention toutefois, l’or apparaît très mat (roughness 1 ?) et évoque éventuellement autant le beurre, le fromage que l’or…";14;;;14;"Fallait-il accompagner les images essentiellement bleu, jaune, grise et blanche d’un fond mauve ? Paradoxalement le rapport de couleur fonctionne assez bien, mais il introduit une subtilité qu’il conviendrait de retrouver dans l’espace de jeu à un moment ou un autre (sans cela ce n’est plus qu’un accident heureux).
+
+Image 1 : ensemble trop vide, il faut mettre des rochers gelés pour cacher ces vilaines falaises étirées. 
+
+Image 2 :  Oui la présence de l’arbre au premier apporte quelque chose à la scène en forçant le spectateur à constater la présence de la glace partout.
+
+Image 3 : Oui les éléments émergeant du sol c’est une bonne idée qu’il fallait exploiter encore davantage (davantage d’objet à demi noyés dans l’or).
+
+Image 4 : la végétation dorée méritait un traitement plus fin (conservation de la couche alpha pour avoir des la transparence et des feuilles d’arbres se détachant sur le fond azur).";15;;;15;Une approche originale du brief (étonnant non ?) qui amène une proposition graphique et conceptuelle intéressante. Attention toutefois à ne pas systématiquement échapper à la contrainte technique par le recours l’échappée conceptuel (comprendre : il y a des fois où il faut se cogner le logiciel dans sa dimension fastidieuse (Terrain sculpt, Foliage).
+LARCHER;Marius;Bizzaroid;BIZ;https://jniac.github.io/SDC-22-23-B2-UE5/work/Bizzaroid/exercice1.html;"Présence des 2 « landscape layers » : ok.
+Statuette : ok
+
+L’utilisation de l’outil « Foliage » est assez convaincante. Les herbes hautes s’intègrent toutefois un peu difficilement (solution : rapprocher les teintes ?).  L’usage de l’outil apparaît aussi trop inégale : d’un coté l’herbe dense, des arbres se suivant en rangs serrés, de l’autre une roche nue de chez nue, pas un caillou ne trainant ça ou là, si ce n’est pour finir deux élément d’une porte qui ne semble pas avoir existé (quel emplacement ?).";13;;;13;"Hou le bleu, il est très bleu n’est-ce pas ? Trop certainement, même si le bleu roi est certainement une couleur qui accompagnerait avantageusement les images suivant. Pourquoi ne pas utiliser un bleu proche du ciel ?
+
+Image 1 :  le cadre donne un peu trop à voir l’intégration inachevé des herbes au sol, mais l’effet « champêtre » est très réussi.
+
+Image 2 : une composition en diagonale presque trop évidente où s’oppose un coté plein et végétal (droite), un coté vide et minéral (gauche). 
+
+Image 3 : la vue sur la végétation en contre bas à quelque chose de vertigineux (oui).
+
+Image 4 : c’est vide (manque de budget ?), architecturalement parlant c’est trop pauvre (pas de traitement du sol, pas de colonne, on se demande même si le mur à gauche ne flotte pas légèrement)";14;;;14;Un premier travail correct, voire bien, mais qu’il faut aboutir, terminer, c’est à dire ne pas se contenter d’une disposition globalement satisfaisante, mais encore soigner le détail (mur flottant, effet vide, inégalité de traitement).
+LASSALE;Thibaut;Thibl94;THT;https://jniac.github.io/SDC-22-23-B2-UE5/work/Thibl94/exercice1.html;"Présence des 2 « landscape layers » : ok.
+Statuette : non.
+
+Le placement des différents éléments a pu faire l’objet d’un soin particulier. Toutefois il reste de nombreuses maladresses (plateforme flottante, proportions, terrain pénétrant l’architecture).
+
+Un bon début. Mais cela reste un début.";13;Pas de statuette !;-2;11;"Attention, le bleu d’arrière plan a tendance à rendre fade les images.
+
+Image 1 : Cadrage à revoir. Ombres très dures (solution : booster le skylight le temps de la capture ?).
+
+Image 2 : Perspective assez convaincante, mais c’est quoi cette bande blanche au premier plan ? Le ciel ???
+
+Image 3 : composition à revoir (bcp de ciel, artefact confondu avec architecture en arrière plan)";12;"Les vues ne correspondent pas vraiment à la demande.
+
+4 images demandées contre 3 ici";-1;11;Un premier travail correct, une bonne prise en main du logiciel. Il faut à présent soigner l’ensemble, càd la composition, les proportions.
+LEMBOUMBA LEPANDOU;Kelly;kellym19;M19;https://jniac.github.io/SDC-22-23-B2-UE5/work/kellym19/exercice1.html;"Présence des 2 « landscape layers » : hm, probablement, mais l’usage rend anecdotique leur présence.
+Statuette : ok
+
+Le positionnement des objets est encore maladroit. Il faut être très prudent avec les déformations non homothétique (scale non uniforme). L’ensemble manque de cohérence, de continuité.
+C’est un premier rendu dans un logiciel 3D.
+La pratique, l’exercice permettront d’améliorer la qualité des travaux rendus.";11;;;11;"Attention le CSS des background n’était pas bon : Répétition du background dans l’espace du cadre. Propriétés CSS manquante : 
+background-size: cover;
+background-position: center;
+
+Image 1 : Pb de cadre, quel est le sujet de l’image ? Le talus ?
+
+Image 2 : Statue dans la lumière : oui ! Mais les éléments du décor apparaissent très éparpillés (colonne solitaire, rocher démesuré à gauche, etc.)
+
+Image 3 : Attention au cadre ! 50% de l’image est occupé par un ciel vide, les éléments architecturaux du bas sont coupés par le cadre.
+
+Image 4 : Le cadre, le cadre ! L’angle de vue est frontal, mais l’objet central n’est pas centré ! Distance au sujet à revoir (ou bien la statue est montré dans son environnement, et alors il faut dézoomer encore pour donner à voir l’environnement, ou bien le sujet c’est la statue, il faut alors se rapprocher pour rendre anecdotique les éléments environnants).";10;;;10;"Une entrée en matière qui est encore laborieuse et reste bancale (problème de composition, de proportions).
+Faire attention au cadre, travailler la photographie."
+MARTINS;Aurore;Sheikss;SHK;https://jniac.github.io/SDC-22-23-B2-UE5/work/Sheikss/exercice1.html;"Présence des 2 « landscape layers » : ok.
+Statuette : ok
+
+Bon travail dans l’ensemble. 
+La texture d’herbe apparaît un peu trop étirée, un réduction ou un mix avec un autre layer à une échelle plus réduite améliorerait certainement le rendu du sol.";15;;;15;"Image 1 : ok (cadre pouvant toutefois être légèrement amélioré).
+
+Image 2 : Bcp de sol, d’herbe dans le cadre, tandis que les montagnes sont bord cadre, un angle de caméra un peu relevé serait sans doute préférable.
+
+Image 3 : idem
+
+Image 4: Le jeu de colonne découpant le cadre est intéressant. Le visage en arrière plan, semblant regarder la statue à l’instar du spectateur introduit une dynamique très intéressante. Un cadre plus serré renforcerait l’effet.";14;;;14;Bon premier travail, mais améliorable avec un peu plus d’attention aux détails. Le cadre, la photographie peut être améliorée.
+MIGOUT;Mickaël;mickaelmigout;MIC;https://jniac.github.io/SDC-22-23-B2-UE5/work/mickaelmigout/exercice1.html;"Présence des 2 « landscape layers » : ok.
+Statuette : ok
+La rampe vue du ciel est « scolaire » (strict respect du volume donné dans le brief). Vue du sol les choses se passent mieux, la végétation habille le plan « vert » (herbe).
+Les éléments architecturaux sont parfois placés un peu « pèle-mêle », mais dans l’ensemble ça va. ";14;;;14;"La couleur d’arrière plan (rouge / rose saumon) s’accorde mal avec les choix artistiques de la scène (herbe, terre).
+
+Les images sont cadrées de la même façon. Absence de jeu sur les plans. Penser à varier les angles pour éviter les répétitions.";14;Respect brief;;14;Attention au graphisme. Un travail technique satisfaisant mais plus léger sur le versant de la création, du design. Une solution possible : s’inspirer de références, quitte à copier, pour comprendre les problématiques de composition ?
+OZENNE;Nathan;C4wY;CAW;https://jniac.github.io/SDC-22-23-B2-UE5/work/C4wY/exercise1.html;"Présence des 2 « landscape layers » : ok.
+Statuette : ok
+
+Excellente utilisation du terrain et des « landscape layers » (grande cohérence du résultat), les transitions apparaissent naturelles, les parties étirées (pente forte) gardent un aspect réaliste). Le placement des éléments 3D (assets / static meshes) est juste (proportions) et bien intégré dans le décor (ex: le tablier du pont).";18;;;18;"Présentation très soignée avec prise d’initiative individuelle.
+
+Images : les cadres sont juste, la lumière est juste (éclairage, contraste, teinte)";20;;;20;Excellent.
+PENIQUAUD;Kira;KiraBaguette;KIR;;Pas de rendu;0;;;0;Pas de rendu ;0;;;0;Pas de rendu 
