@@ -32,27 +32,47 @@ section h2 {
 }
 
 section.page-1 {
-    background-image: url(assets/Screen1.png); 
+    background-image: url(assets/a1.png); 
     background-size: cover;
     align-items: flex-end;
 }
 
 section.page-2 {
-    background-image: url(assets/Screen2.png); 
+    background-image: url(assets/a2.png); 
     background-size: cover;
 }
 
 section.page-3 {
-    background-image: url(assets/Screen3.png); 
+    background-image: url(assets/a3.png); 
     background-size: cover;
 }
 
 section.page-4 {
-    background-image: url(assets/Screen4.png); 
+    background-image: url(assets/a4.png); 
     background-size: cover;
 }
 
 section.page-5 {
-    background-image: url(assets/Screen5.png); 
+    background-image: url(assets/a5.png); 
+    background-size: cover;
+}
+
+section.page-6 {
+    background-image: url(assets/a6.png); 
+    background-size: cover;
+}
+
+section.page-7 {
+    background-image: url(assets/a7.png); 
+    background-size: cover;
+}
+
+section.page-9 {
+    background-image: url(assets/a9.png); 
+    background-size: cover;
+}
+
+section.page-10 {
+    background-image: url(assets/a10.png); 
     background-size: cover;
 }
