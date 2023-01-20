@@ -1,0 +1,65 @@
+@import url(../../html/main.css);
+
+body {
+    background-color: #ccb873;
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border: solid 16px #2c2906;
+
+    background-size: cover;
+    background-position: center;
+}
+
+section h1 {
+    font-size: 6em;
+    color: #000000;
+}
+
+section p {
+    background-color: #ccb873;
+}
+
+section.intro {
+    justify-content: center;
+    align-items: center;
+}
+
+section.page-1 {
+    background-image: url(assets/ex2/1.JPG);
+}
+
+
+section.page-2 {
+    background-image: url(assets/ex2/2.JPG);
+}
+
+section.page-3 {
+    background-image: url(assets/ex2/3.JPG);
+}
+
+section.page-4 {
+    background-image: url(assets/ex2/4.JPG);
+}
+
+section.page-5 {
+    background-image: url(assets/ex2/5.JPG);
+}
+
+section.page-6 {
+    background-image: url(assets/ex2/6.JPG);
+}
+
+section.page-7 {
+    background-image: url(assets/ex2/7.JPG);
+}
+
+section.page-8 {
+    background-image: url(assets/ex2/8.JPG);
+}

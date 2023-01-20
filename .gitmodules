@@ -1,3 +1,3 @@
-[submodule "evaluation/src/some-utils"]
-	path = evaluation/src/some-utils
+[submodule "evaluation-src/src/some-utils"]
+	path = evaluation-src/src/some-utils
 	url = https://github.com/jniac/some-utils.git

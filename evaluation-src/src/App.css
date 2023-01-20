@@ -1,0 +1,42 @@
+@import url(some-utils/css/main.css);
+@import url(some-utils/css/layout.css);
+
+main {
+  overflow: scroll;
+  padding: 64px;
+}
+
+main h1 {
+  font-size: 24px;
+  padding-bottom: 32px;
+}
+
+table {
+  font-size: 8px;
+  width: 2000px;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+table td {
+  padding: 8px;
+  border: solid 1px #eee;
+}
+
+col.unreal-engine,
+col.presentation-web,
+col.comment {
+  width: 300px;
+}
+
+td.unreal-engine,
+td.presentation-web,
+td.comment {
+  text-align: center;
+  white-space: pre-line;
+}
+
+td.total {
+  background-color: #7fffd453;
+  font-size: 1.2em;
+}
