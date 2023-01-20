@@ -21,47 +21,47 @@ section h1 {
 
 section.img-1 {
     height: auto;
-    max width: 95%;
+    max-width: 95%;
     padding: 5%;
 }
 
 section.img-2 {
     height: auto;
-    max width: 95%;
+    max-width: 95%;
     padding: 5%;
     overflow: hidden;
 }
 
 section.img-3 {
     height: auto;
-    max width: 95%;
+    max-width: 95%;
     padding: 5%;
 }
 
 section.img-4 {
     height: auto;
-    max width: 95%;
+    max-width: 95%;
     padding: 5%;
     overflow: hidden;
 }
 
 section.img-5 {
     height: auto;
-    max width: 95%;
+    max-width: 95%;
     padding: 5%;
     overflow: hidden;
 }
 
 section.img-6 {
     height: auto;
-    max width: 95%;
+    max-width: 95%;
     padding: 5%;
     overflow: hidden;
 }
 
 section.img-7 {
     height: auto;
-    max width: 95%;
+    max-width: 95%;
     padding: 5%;
     overflow: hidden;
 }
