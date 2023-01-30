@@ -1,7 +1,7 @@
 @import url(../../html/main.css);
 
 body {
-    background-color: brown;
+    background-color: rgb(67, 81, 67);
 }
 
 section {
@@ -17,51 +17,51 @@ section {
 section h1 {
     font-size: 3em;
     color: aquamarine;
+    text-align: center;
 }
 
 section.img-1 {
     height: auto;
-    max-width: 95%;
+    width: 100%;
     padding: 5%;
 }
 
 section.img-2 {
     height: auto;
-    max-width: 95%;
+    width: 100%;
     padding: 5%;
     overflow: hidden;
 }
 
 section.img-3 {
     height: auto;
-    max-width: 95%;
+    width: 100%;
     padding: 5%;
 }
 
 section.img-4 {
     height: auto;
-    max-width: 95%;
+    width: 100%;
     padding: 5%;
     overflow: hidden;
 }
 
 section.img-5 {
     height: auto;
-    max-width: 95%;
+    width: 100%;
     padding: 5%;
     overflow: hidden;
 }
 
 section.img-6 {
     height: auto;
-    max-width: 95%;
     padding: 5%;
     overflow: hidden;
 }
 
 section.img-7 {
     height: auto;
-    max-width: 95%;
+    width: 100%;
     padding: 5%;
     overflow: hidden;
 }
