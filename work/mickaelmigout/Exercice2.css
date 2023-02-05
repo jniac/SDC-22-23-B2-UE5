@@ -1,7 +1,7 @@
 @import url(../../html/main.css);
 
 body {
-background-color: rgb(238, 135, 135);
+background-color: rgb(167, 167, 167);
 }
 
 section {
@@ -20,6 +20,7 @@ section.intro {
 section h1 {
     font-size: 6em;
     color: black;
+    text-align: center;
 }
 section p {
     background-color: rgb(255, 217, 0);
@@ -28,33 +29,41 @@ section p {
 }
 
 section.page-1 {
-    background-image: url(asset/Capture\ Point\ de\ départ.jpg);
+    
+    background-image: url(asset/Temple_Montagne/Capture_Point_de_départ2.jpg);
     background-size: cover;
+    background-position: center;
 }
 
 section.page-2 {
-    background-image: url(asset/Capture\ Progession\ à\ flanc\ de\ montagne.jpg);
+    background-image: url(asset/Temple_Montagne/Capture_Progession_à_flanc_de_montagne.jpg);
     background-size: cover;
+    background-position: center;
 }
 
 section.page-3 {
-    background-image: url(asset/Capture\ Vue\ obstacle.jpg);
+    background-image: url(asset/Temple_Montagne/Capture_Vue_obstacle2.jpg);
     background-size: cover;
+    background-position: center;
 }
 
 section.page-4 {
-    background-image: url(asset/Capture\ Vue\ juste\ après\ l\'obstacle.jpg);
+    background-image: url(asset/Temple_Montagne/Capture_Vue_juste_après_obstacle.jpg);
     background-size: cover;
+    background-position: center;
 }
 section.page-5 {
-    background-image: url(asset/Capture\ Vue\ devant\ le\ temple.jpg);
+    background-image: url(asset/Temple_Montagne/Capture_Vue_devant_le_temple.jpg);
     background-size: cover;
+    background-position: center;
 }
 section.page-6 {
-    background-image: url(asset/Capture\ Intérieur\ temple.jpg);
+    background-image: url(asset/Temple_Montagne/Capture_Intérieur_temple.jpg);
     background-size: cover;
+    background-position: center;
 }
 section.page-7 {
-    background-image: url(asset/Capture\ Vue\ générale.jpg);
+    background-image: url(asset/Temple_Montagne/Capture_Vue_générale2.jpg);
     background-size: cover;
+    background-position: center;
 }
