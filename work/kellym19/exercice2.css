@@ -11,25 +11,31 @@ section {
  justify-content: center;
  align-items: center;
  border: solid 72px rgb(251, 182, 117);
+
 }
 section.intro {
     justify-content: center;
     align-items: center;
 }
 section h1 {
- font-size: 6em;
- font-style: italic;
- color: rgb(0, 0, 0);
- font-weight: bold;
- text-decoration: underline;
- text-align: center;
- text-decoration-style:solid;
+    font-size: 6em;
+    font-style: italic;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    text-decoration-style:solid;
+    background-size: cover;
+    background-position: center ;
 }
+section {
+    /* ... */
+    background-size: cover;
+    background-position: center;
+  }
 section p {
-    background-color: rgb(0, 0, 0);
-    color: rgb(253, 253, 253);
-    padding: 8px;
-    border-radius: 4px;
+    background-color: #ccb873;
     text-align: right;
     align-content: inherit; 
     text-align: center;
@@ -38,15 +44,37 @@ section p {
      top: 0px;
      left: 0px;
 }
-section.page-1 {
-    background-image: url(assets/image\ 1\ exo\ 2.jpg)
-    
+section.intro {
+    justify-content: center;
+    align-items: center;
 }
+     
+     
 section.page-2 {
-    background-image: url(assets/image\ 2\ exo\ 2.jpg)
+    background-image: url(assets/exo2_1.png)
     
 }
 section.page-3 {
-    background-image: url(assets/image\ 3\ exo\ 2.jpg)
+    background-image: url(assets/exo2_2.png)
+    
+}
+section.page-4 {
+    background-image: url(assets/exo2_3.png)
+    
+}
+section.page-5 {
+    background-image: url(assets/exo2_4.png)
+    
+}
+section.page-6 {
+    background-image: url(assets/exo2_5.png)
+    
+}
+section.page-7 {
+    background-image: url(assets/exo2_6.png)
+    
+}
+section.page-8 {
+    background-image: url(assets/exo2_7.png)
     
 }
