@@ -1,11 +1,12 @@
 
 import Papa from 'papaparse'
-import { useMemo } from 'react'
+import { useMemo, useState } from 'react'
 import { useFetchText } from 'some-utils/npm/react'
 import './App.css'
 
 const useFetchCsv = (url: string) => {
   const str = useFetchText(url)
+  console.log(str?.slice(0, 200))
   const data = useMemo(() => {
     return str !== null && Papa.parse(str)
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -73,20 +74,46 @@ export const Table = ({ data }: { data: string[][] }) => {
   )
 }
 
-export const App = () => {
-  const csv = useFetchCsv('./assets/B2-EX1.csv')
+const ExercisePage = ({ exerciseUrl = '', title = 'un titre' }) => {
+  const csv = useFetchCsv(exerciseUrl)
   return (
-    <div className="App">
-      <main>
-        <h1>
-          <a href="https://github.com/jniac/SDC-22-23-B2-UE5/tree/main/exercises/Ex1">
-            Evaluation Ex-1 Le temple dans la forêt
-          </a>
-        </h1>
-        {csv && (
-          <Table data={csv.data as string[][]} />
-        )}
-      </main>
+    <main>
+      <h1>
+        <a href="https://github.com/jniac/SDC-22-23-B2-UE5/tree/main/exercises/Ex1">
+          {title}
+        </a>
+      </h1>
+      {csv && (
+        <Table data={csv.data as string[][]} />
+      )}
+    </main>
+  )
+}
+
+export const App = () => {
+  const [exercise, setExercise] = useState<{ url: string, title: string } | null>(null)
+  return (
+    <div className='App'>
+      {exercise ? (
+        <ExercisePage exerciseUrl={exercise.url} title={exercise.title} />
+      ) : (
+        <div className='fill flex column center gutter-4'>
+          <button
+            onClick={() => setExercise({
+              title: 'Evaluation Ex-1 Le temple dans la forêt',
+              url: './assets/B2-EX1.csv',
+            })}>
+              Exercice 1
+            </button>
+          <button
+            onClick={() => setExercise({
+              title: 'Evaluation Ex-2 Le temple dans la montagne',
+              url: './assets/B2-EX2.csv',
+            })}>
+              Exercice 2
+            </button>
+        </div>
+      )}
     </div>
   )
 }
