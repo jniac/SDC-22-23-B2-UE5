@@ -2,6 +2,7 @@
 
 body {
     background-color: rgb(67, 81, 67);
+    color: white;
 }
 
 section {
@@ -12,6 +13,12 @@ section {
     justify-content: center;
     align-items: center;
     border: solid 16px white;
+}
+
+section img {
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: 16px;;
 }
 
 section h1 {
