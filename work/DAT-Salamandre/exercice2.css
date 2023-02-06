@@ -1,0 +1,37 @@
+@import url(../../html/main.css);
+
+body {
+    background-color: rgb(150, 240, 240);
+}
+section {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid 16px rgb(205, 139, 139);
+}
+section h1 {
+    font-size: 4em;
+    color: coral;
+}
+
+section.img-1 {
+    height: auto;
+    max-width: 95%;
+    padding: 5%;
+}
+
+section.img-2 {
+    height: auto;
+    max-width: 95%;
+    padding: 5%;
+    overflow: hidden
+}
+
+section.img-3 {
+    height: auto;
+    max-width: 95%;
+    padding: 5%;
+}
