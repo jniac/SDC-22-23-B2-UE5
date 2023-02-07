@@ -1,0 +1,71 @@
+@import url(../../html/main.css);
+
+body {
+    background: content-box radial-gradient(rgb(24, 78, 33), rgb(241, 178, 143));
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    border: solid 16px black;
+    padding: 32px;
+}
+
+section.intro {
+    justify-content: center;
+    align-items: center;
+}
+
+section h1 {
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 10px 5px 5px rgb(0, 0, 0);
+    color: rgb(52, 22, 9);
+}
+
+section p {
+    background: linear-gradient(225deg, #137e3c 0%,  #b27944 50%, #52443b 100%);
+    padding: 16px;
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 10px 5px 5px rgb(0, 0, 0);
+}
+
+section.page-1 {
+    background-image: url(assets/1.jpg);
+    background-size: cover;
+}
+
+section.page-2 {
+    background-image: url(assets/2.jpg);
+    background-size: cover;
+}
+
+section.page-3 {
+    background-image: url(assets/3.jpg);
+    background-size: cover;
+}
+
+section.page-4 {
+    background-image: url(assets/4.jpg);
+    background-size: cover;
+}
+
+section.page-5 {
+    background-image: url(assets/5.jpg);
+    background-size: cover;
+}
+
+section.page-6 {
+    background-image: url(assets/6.jpg);
+    background-size: cover;
+}
+
+section.page-7 {
+    background-image: url(assets/7.jpg);
+    background-size: cover;
+}

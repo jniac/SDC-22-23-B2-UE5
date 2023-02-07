@@ -1,0 +1,67 @@
+@import url(../../html/main.css);
+
+body {
+    background-color: rgb(196, 160, 17);
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid 16px rgb(205, 141, 76);
+}
+
+section h1 {
+    font-size: 3em;
+    color: rgb(42, 114, 231);
+}
+
+section.img-1 {
+    height: auto;
+    max-width: 95%;
+    padding: 5%;
+}
+
+section.img-2 {
+    height: auto;
+    max-width: 95%;
+    padding: 5%;
+    overflow: hidden;
+}
+
+section.img-3 {
+    height: auto;
+    max-width: 95%;
+    padding: 5%;
+}
+
+section.img-4 {
+    height: auto;
+    max-width: 95%;
+    padding: 5%;
+    overflow: hidden;
+}
+
+section.img-5 {
+    height: auto;
+    max-width: 95%;
+    padding: 5%;
+    overflow: hidden;
+}
+
+section.img-6 {
+    height: auto;
+    max-width: 95%;
+    padding: 5%;
+    overflow: hidden;
+}
+
+section.img-7 {
+    height: auto;
+    max-width: 95%;
+    padding: 5%;
+    overflow: hidden;
+}

@@ -25,6 +25,8 @@ font-weight: bold;
 text-decoration: underline;
 text-align: center;
 text-decoration-style:solid;
+background-size: cover;
+background-position: center ;
 }
 section p {
     background-color: rgb(0, 0, 0);

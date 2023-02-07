@@ -1,6 +1,10 @@
 @import url(some-utils/css/main.css);
 @import url(some-utils/css/layout.css);
 
+.App {
+  height: 100vh;
+}
+
 main {
   overflow: scroll;
   padding: 64px;
